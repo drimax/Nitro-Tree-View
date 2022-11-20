@@ -1,0 +1,72 @@
+.example-tree-progress-bar {
+  margin-left: 30px;
+}
+
+label.right {
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+}
+
+p.left {
+  display: inline-block;
+  width: 500px;
+  text-align: left;
+}
+
+.green-icon {
+  color: rgb(16, 187, 210);
+}
+
+.blue-icon {
+  color: blue;
+}
+
+.container {
+  border: 2px solid #006100;
+  border-radius: 10px;
+  background-color: #d8dfe6;
+  color: rgb(30, 21, 23);
+}
+.mat-tree {
+  border-radius: 10px;
+}
+.mat-tree-node {
+  background-color: #33475b;
+  border-radius: 10px;
+}
+
+.mat-tree-node-select {
+  background-color: #050222 !important
+}
+
+.leaf-node-lable {
+  color: rgb(237, 9, 161);
+  font-size: 30px;
+}
+
+.tree-node-lable {
+  color: rgb(20, 183, 220);
+  font-size: 30px;
+}
+
+.mat-button-toggle {
+  color: rgb(20, 183, 220);
+  font-size: 30px;
+}
+
+.p-normal {
+  color: rgb(3, 21, 24);
+  font-size: 20px;
+  text-align: center;
+  padding: 10px;
+  vertical-align: middle;
+}
+
+.error {
+  color: rgb(240, 16, 16);
+}
+
+.button-boarder-colour {
+  border-color: #0f0707;
+}
